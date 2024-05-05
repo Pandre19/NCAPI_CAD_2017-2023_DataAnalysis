@@ -1,5 +1,7 @@
 # Documentation: Analysis of New Condominium Apartment Price Indexes
 
+#### Tableau Public URL: https://public.tableau.com/app/profile/jerry.pena.alfaro/viz/NewCanadianCondoMarketTrends2017-2023/Dashboard?publish=yes
+
 ### By Jerry Pena
 
 ## Introduction
